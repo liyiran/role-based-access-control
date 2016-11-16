@@ -1,4 +1,4 @@
 student,start stop print queue
 assistant,start stop restart print queue topQueue readConfig
 professor,start stop restart queue topQueue readConfig setConfig
-adminstrator,start stop restart print queue topQueue status readConfig setConfig
+administrator,start stop restart print queue topQueue status readConfig setConfig
